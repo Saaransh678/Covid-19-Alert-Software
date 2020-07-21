@@ -1,0 +1,2 @@
+# Covid-19-Alert-Software
+The GUI application Covid-19 Alert is developed using the Tkinter framework of python. This application can be used by apartments or hostels as a precautionary measure to COVID-19. The visitor to any particular flat or person in the apartment can check prior before going to a particular person or flat that whether it is safe to go to a particular flat or not based on the health information stored in the system.
